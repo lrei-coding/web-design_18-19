@@ -1,5 +1,5 @@
 # Web Design Class - Assignment
-## Trimester 3 - HTML, CSS, (w/Bootsrap framework) commenting, designing from scratch
+## HTML, CSS, (w/Bootsrap framework) commenting, designing from scratch
 
 # Website Project: Personal Web Site
 
