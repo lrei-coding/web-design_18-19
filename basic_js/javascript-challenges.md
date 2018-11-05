@@ -2,7 +2,7 @@
 
 - Create an HTML page that requests you to enter your name and birthday
 - When clicking on **submit**, page displays a welcome paragraph to said person in the following format:
-`Jacob Farkas, 18`
+`Welcome to this page, Jacob Farkas, 18 !`
 
 **Challenge #2**
 
