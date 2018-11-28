@@ -5,7 +5,7 @@ Augustus
 Bella    
 Daniel  
 Emily  
-**Jagger**  
+**Jagger** (C)   
 Nissim  
 Justin  
 Taegen
