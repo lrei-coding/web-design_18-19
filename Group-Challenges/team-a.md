@@ -5,7 +5,7 @@ Arlen
 Amouri  
 Charlotte  
 Ethan  
-**Grant**  
+**Grant** (C)  
 Maxine  
 Jonathan  
 Timur  
