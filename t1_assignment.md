@@ -1,17 +1,17 @@
 # Web Design Class - Assignment
-## HTML, CSS, (w/Bootsrap framework) commenting, designing from scratch
+## HTML, CSS, commenting, designing from scratch
 
-# Website Project: Personal Web Site
+# Website Project: Group Web Site
 
-Create a website of your choosing with Responsive Web Design using HTML, CSS, and Bootstrap skills you've learned.
+Create a website using HTML, CSS, and Bootstrap skills you've learned.
 - Build the site using [**CodeAnywhere**](https://codeanywhere.com/)
 
 ## Website Requirements
 
-- Site needs to have multiple HTML pages, with links to the other pages on each page. (via **Navbar**, see **Bootstrap** section)
+- Site needs to have multiple HTML pages, with links to the other pages on each page. [**Navbar**](https://github.com/lrei-coding/web-design_18-19/blob/master/Group-Challenges/navbar.md) optional 
 - Single CSS page that is used for all HTML pages
-- One **Html** page should be titled **about** and include 3 or more short paragraphs about the person who created the site and what the site is about.
-- See list below of requirements for **HTML** tags and **CSS** rule-sets as well as **Bootstrap** requirements
+- One **Html** page should be titled **about** and include 3 or more short paragraphs about the people who created the site and what the site is about.
+- See list below of requirements for **HTML** tags and **CSS** rule-sets.
 
 ## HTML requirements
 
@@ -30,20 +30,3 @@ Create a website of your choosing with Responsive Web Design using HTML, CSS, an
 - Use at least one example where you **combine** multiple CSS selectors
 - Use of an **Image animation** filter or something similar
 - Use **CSS Comments** to describe and explain your work
-
-## Bootstrap requirements
-
-- You will need to link to the bootstrap CDN in the `<head>` portion of the .html file (think CSS)
-- use of **container** or **container-fluid** tag
-- use of **jumbotron** class
-- use at least 4 `row` divs
-- use a multi-column layout in a way that the page renders differntly for smaller and larger devices (e.g. by using `col-sm-6` and `col-md-4`)
-- have content across at least 2 `columns` for displays larger than an iPhone (375 pixels and above)
-
-## Bonus
-
-- Have the description of an image apear only when you **hover** over the image, but hidden all other times.
-- Use of **Button Groups** - Have buttons aligned and stretch across the entire width of screen
-- Use of **Sticky Navbar** - So the Navbar remains visible as you scroll down the page
-- Custom color for the **Navbar**
-- Create a **carousel** or **table** using bootstrap
