@@ -8,7 +8,7 @@ Create a website using HTML, CSS, and Bootstrap skills you've learned.
 
 ## Website Requirements
 
-- Site needs to have multiple HTML pages, with links to the other pages on each page. [**Navbar**](https://github.com/lrei-coding/web-design_18-19/blob/master/Group-Challenges/navbar.md) optional 
+- Site needs to have multiple HTML pages, with links to the other pages on each page.
 - Single CSS page that is used for all HTML pages
 - One **Html** page should be titled **about** and include 3 or more short paragraphs about the people who created the site and what the site is about.
 - See list below of requirements for **HTML** tags and **CSS** rule-sets.
@@ -28,5 +28,9 @@ Create a website using HTML, CSS, and Bootstrap skills you've learned.
 - H1 styling
 - Include `id`, `class`, and `tag` selectors in your CSS file
 - Use at least one example where you **combine** multiple CSS selectors
-- Use of an **Image animation** filter or something similar
 - Use **CSS Comments** to describe and explain your work
+
+## Bonus
+- Use of an **Image animation** filter or something similar
+- Use of an HTML/CSS [**Navbar**](https://github.com/lrei-coding/web-design_18-19/blob/master/Group-Challenges/navbar.md) 
+
