@@ -14,8 +14,8 @@ Additionally, this class has other activities and challenges where the students 
 
 The class in instructed by LREI's Director of Technology, **Jacob Farkas**.  
 Jacob is always available to assist students via e-mail and in class. Students can also find him in the Science Office (3rd floor at the HS) during the following hours:  
-Mondays: **11:00AM -12:30 PM**   
-Wednesdays: **11:00AM -12:30 PM**   
+Mondays: **11:00AM - 12:30 PM**   
+Wednesdays: **11:00AM - 12:30 PM**   
 
 ## Coding and Collaboration Skills
 
