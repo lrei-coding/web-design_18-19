@@ -1,4 +1,4 @@
-## Web Development- Course Description (2018-2019 T1-T2 class)
+## Web Development - Course Description (2018-2019 T1-T2 class)
 
 This class will introduce you to the wide world of Web development, with a particular focus on mobile devices. Students learn how to design and build a website using HTML + CSS + Bootstrap and build responsive web sites suitable for all devices. 
  
