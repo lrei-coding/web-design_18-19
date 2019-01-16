@@ -21,7 +21,7 @@ Add the links to your .html page per these intructions:
 ``` https://github.com/lrei-coding/web-design_18-19/blob/master/bootstrap-cdn.md ```
 
 **Container**  
-Make sure you include all your boostrap code in a *container*, as such:  
+Make sure you include all your bootstrap code in a *container*, as such:  
 ```
 <div class="container">
   <!-- Content here -->
