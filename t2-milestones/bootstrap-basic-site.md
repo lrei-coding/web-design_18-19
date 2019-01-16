@@ -13,13 +13,20 @@ Create or update your personal site **on CodeAnywhere** so that it contains a ba
 -- responsive
 -- Viewport set to zoom to max-width on all devices
 -- contain links to Bootstrap and jQuery dependencies in the <head> 
--- have some Bootstrap elements (Jumbotron an/or Cards)
-
+-- have some Bootstrap elements (Jumbotron and/or Cards)
 
 ## Bootstrap requirements
 **Bootstrap links via CDN**  
 Add the links to your .html page per these intructions:  
 ``` https://github.com/lrei-coding/web-design_18-19/blob/master/bootstrap-cdn.md ```
+
+**Container**  
+Make sure you include all your boostrap code in a *container*, as such:  
+```
+<div class="container">
+  <!-- Content here -->
+</div>
+```
 
 **Viewport**  
 To keep the zoom level set to page width on smaller devices, even with Bootstrap, best to use the following code:  
