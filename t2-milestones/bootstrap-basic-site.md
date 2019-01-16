@@ -4,7 +4,7 @@
 
 # Basic Bootstrap site
 
-Create or update your personal site so that it contains a basic Bootstrap v4 environment.
+Create or update your personal site **on CodeAnywhere** so that it contains a basic Bootstrap v4 environment. Work with a partner to help you complete this assignment. 
 
 ## Website Requirements
 
@@ -17,11 +17,11 @@ Create or update your personal site so that it contains a basic Bootstrap v4 env
 
 
 ## Bootstrap requirements
-**Bootstrap links via CDN**
+**Bootstrap links via CDN**  
 Add the links to your .html page per these intructions:  
 ``` https://github.com/lrei-coding/web-design_18-19/blob/master/bootstrap-cdn.md ```
 
-**Viewport**
+**Viewport**  
 To keep the zoom level set to page width on smaller devices, even with Bootstrap, best to use the following code:  
 ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
 
