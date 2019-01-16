@@ -10,10 +10,10 @@ Create or update your personal site **on CodeAnywhere** so that it contains a ba
 
 - Site needs to have an HTML page and a CSS page.
 - Site should be:
--- responsive
--- Viewport set to zoom to max-width on all devices
--- contain links to Bootstrap and jQuery dependencies in the <head> 
--- have some Bootstrap elements (Jumbotron and/or Cards)
+  - responsive
+  - Viewport set to zoom to max-width on all devices
+  - contain links to Bootstrap and jQuery dependencies in the <head> 
+  - have some Bootstrap elements (Jumbotron and/or Cards)
 
 ## Bootstrap requirements
 **Bootstrap links via CDN**  
