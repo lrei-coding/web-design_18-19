@@ -1,6 +1,7 @@
 # Web Design Class - Assignment
 
-## Milestone #1
+## Milestone #2  
+This site includes all the requirements of [Milestone #1](bootstrap-basic-site.md) and some new requirements, based on the last few weeks classes.
 
 # Basic Bootstrap site
 
