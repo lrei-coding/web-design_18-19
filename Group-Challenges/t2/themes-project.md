@@ -1,5 +1,5 @@
 
-# Themes project
+# Bootstrap Themes Project
 
 Split class into multiple teams, each saving work to a folder on github
 
