@@ -1,16 +1,35 @@
+# Bootstrap Themes project
 
-# Bootstrap Themes Project
+# Website Challenge  
 
-Split class into multiple teams, each saving work to a folder on github
+The class will be divided into 5 teams:   
+**A,B,C,D,E**.   
 
-Build a bootstrap theme and use portal to link to member pages.
+Each team will work on creating a Theme bundle, using **HTML, CSS, and Bootstrap**. The theme will be available for others to use (will be posted on GitHub) and will reflect the coding, writing, and design skills of the teams members.
 
-Theme should include:
-- template .html page with Loren ipsum content
-- template .css file
-- .html page should include bootstrap CDN
-- .html page should contain sample bootstrap elements
+### Theme Components
+
+The themes will be designed as a portal page that showcases the individual website projects of each of the teams members.
+
+Each Theme should contain the following files:
+- **index.html** (containing CDN links to Bootstrap 4, CSS file, and JavaScript files)
+- **CSS file**
+- **about.html** (containing individual team member **Cards** )
+- **page1.html** , **page2.html**, **page3.html** - these should be pages that contain an image and description of each students personal website project.
+
+### HTML Requirements  
+This website will follow the design criteria of the [Individual website project](ttps://github.com/lrei-coding/web-design_18-19/blob/master/t1_assignment.md). 
+
+### CSS Requirements  
+This website will follow the design criteria of the [Individual website project](ttps://github.com/lrei-coding/web-design_18-19/blob/master/t1_assignment.md). 
+
+### Bootstrap Requirements  
+To be announced...
+
+will contain :
 - about page with cards for team members
 - navbar with brand or other neat element
 - modal / carousel / collapse element / dropdown in navbar
-- content on pages should be blurbs about the personal sites
+ 
+### Scoring 
+Teams will be assigned a score based on agreed upon criteria. Team with the highest score win
