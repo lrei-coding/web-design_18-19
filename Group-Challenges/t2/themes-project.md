@@ -12,6 +12,7 @@ Each team will work on creating a Theme bundle, using **HTML, CSS, and Bootstrap
 The themes will be designed as a portal page that showcases the individual website projects of each of the teams members.
 
 Each Theme should contain the following files:
+- README.md
 - **index.html** (containing CDN links to Bootstrap 4, CSS file, and JavaScript files)
 - **CSS file**
 - **about.html** (containing individual team member **Cards** )
