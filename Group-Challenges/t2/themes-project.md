@@ -5,7 +5,7 @@
 The class will be divided into 5 teams:   
 **A,B,C,D,E**.   
 
-Each team will work on creating a Theme bundle, using **HTML, CSS, and Bootstrap**. The theme will be available for others to use (will be posted on GitHub) and will reflect the coding, writing, and design skills of the teams members.
+Each team will work on creating a Theme bundle, using **HTML, CSS, and Bootstrap**. The theme will be available for others to use (will be posted on GitHub) and will reflect the coding, writing, and design skills of the teams members. Each team will have someone who is designated as the project manager, responsible for managing the team's GitHub page and for publishing the final work on the page. Each team will also have a lead designed and lead content creator. Ultimately, all members will contribute to the overall project and will have the necessary practice to apply to their own individual web site project.
 
 ### Theme Components
 
