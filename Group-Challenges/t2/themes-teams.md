@@ -1,21 +1,22 @@
 # Bootsrap Themes - Project
+User in _Italics_ is the Team's Project Manager
 
 ### Team A
 ---
-Amouri, Grant, Timur
+Amouri, Grant, _Timur_
 
 ### Team B
 ---
-Arlen, Ethan, Maxine
+_Arlen_, Ethan, Maxine
 
 ### Team C
 ---
-Bella, Emily, Jonathan
+Bella, Emily, _Jonathan_
 
 ### Team D
 ---
-Charlotte, Daniel, Jagger
+Charlotte, Daniel, _Jagger_
 
 ### Team E
 ---
-Justin, Nissim, Taegan
+_Justin_, Nissim, Taegan
