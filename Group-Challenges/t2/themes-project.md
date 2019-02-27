@@ -29,7 +29,7 @@ Themes should be designed using [Bootstrap v4](https://getbootstrap.com/docs/4.3
 
 Themes should include two or more of the following Components:
 - [**Modal**](https://getbootstrap.com/docs/4.3/components/modal/)
-- [**Carousel]**(https://getbootstrap.com/docs/4.3/components/carousel/)
+- [**Carousel**](https://getbootstrap.com/docs/4.3/components/carousel/)
 - [**Collapse**](https://getbootstrap.com/docs/4.0/components/collapse/)
 - [**Navbar**](https://getbootstrap.com/docs/4.0/components/navbar/)
 
