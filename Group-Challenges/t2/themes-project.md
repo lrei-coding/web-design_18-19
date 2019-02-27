@@ -28,13 +28,13 @@ This website will follow the design criteria of the [Individual website project]
 Themes should be designed using [Bootstrap v4](https://getbootstrap.com/docs/4.3/getting-started/introduction/).
 
 Themes should include two or more of the following Components:
-- Modal
-- Carousel
-- Collapse
-- Navbar
+- [**Modal**](https://getbootstrap.com/docs/4.3/components/modal/)
+- **Carousel**
+- **Collapse**
+- **Navbar**
 
 Themes should also include the following:
-- **About** page using **Cards** [see here](https://getbootstrap.com/docs/4.0/components/card/) for team members
+- **About** page using [**Cards**](https://getbootstrap.com/docs/4.0/components/card/) for team members
  
 ### Scoring 
 Teams will be assigned a score based on agreed upon criteria. Team with the highest score win
