@@ -19,18 +19,22 @@ Each Theme should contain the following files:
 - **page1.html** , **page2.html**, **page3.html** - these should be pages that contain an image and description of each students personal website project.
 
 ### HTML Requirements  
-This website will follow the design criteria of the [Individual website project](ttps://github.com/lrei-coding/web-design_18-19/blob/master/t1_assignment.md). 
+This website will follow the design criteria of the [Individual website project](https://github.com/lrei-coding/web-design_18-19/blob/master/t1_assignment.md). 
 
 ### CSS Requirements  
-This website will follow the design criteria of the [Individual website project](ttps://github.com/lrei-coding/web-design_18-19/blob/master/t1_assignment.md). 
+This website will follow the design criteria of the [Individual website project](https://github.com/lrei-coding/web-design_18-19/blob/master/t1_assignment.md). 
 
 ### Bootstrap Requirements  
-To be announced...
+Themes should be designed using [Bootstrap v4](https://getbootstrap.com/docs/4.3/getting-started/introduction/).
 
-will contain :
-- about page with cards for team members
-- navbar with brand or other neat element
-- modal / carousel / collapse element / dropdown in navbar
+Themes should include two or more of the following Components:
+- Modal
+- Carousel
+- Collapse
+- Navbar
+
+Themes should also include the following:
+- **About** page using **Cards** [see here](https://getbootstrap.com/docs/4.0/components/card/) for team members
  
 ### Scoring 
 Teams will be assigned a score based on agreed upon criteria. Team with the highest score win
