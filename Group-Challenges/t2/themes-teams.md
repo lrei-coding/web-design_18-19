@@ -19,9 +19,9 @@ Bella, Emily, _Jonathan_
 ### Team D
 ---
 http://themes-team-d.web.lrei.org/  
-Charlotte, Daniel, _Jagger_
+Daniel, _Jagger_
 
 ### Team E
 ---
 http://themes-team-e.web.lrei.org/  
-_Justin_, Nissim, Taegan
+Charlotte, _Justin_, Nissim, Taegan
