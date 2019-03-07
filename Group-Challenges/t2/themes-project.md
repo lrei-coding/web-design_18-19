@@ -35,6 +35,9 @@ Themes should include two or more of the following Components:
 
 Themes should also include the following:
 - **About** page using [**Cards**](https://getbootstrap.com/docs/4.0/components/card/) for team members
- 
+
+### Hosting on GitHub  
+Each team's Project Manager should post the final code of all theme pages to their own GitHub page.
+
 ### Scoring 
 Teams will be assigned a score based on agreed upon criteria. Team with the highest score win
