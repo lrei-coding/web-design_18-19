@@ -51,4 +51,4 @@ A mix of any of these elements:
 
 - [**Carousel**](https://getbootstrap.com/docs/4.0/components/carousel/)
 
-You should also use icons from [**FontAwesome](https://fontawesome.com/)
+You should also use icons from [**FontAwesome**](https://fontawesome.com/)
