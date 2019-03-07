@@ -1,6 +1,6 @@
 # Web Design Class - Final Assignment
-# Mobile-first, Bootstrap- based website. 
-# Skills = HTML, CSS, Bootstrap framework, commenting, designing from scratch
+**Mobile-first, Bootstrap- based website  
+Skills = HTML, CSS, Bootstrap framework, commenting, designing from scratch**
 
 Create or update your personal site using **CodeAnywhere** so that it contains a basic Bootstrap v4 environment. 
 
